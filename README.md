@@ -32,6 +32,6 @@ Step 6: Visualize the Resource Allocation Graph and check for cycles.
 
 
 Deadlock Concepts:
-Deadlock Prevention:Avoids deadlocks by careful resource allocation (e.g., Banker's Algorithm)[3][4].
-Deadlock Detection:Identifies deadlocks using safe state checks and resource allocation graphs[3].
-Deadlock Recovery:Resolves deadlocks by terminating processes, preempting resources, or rolling back processes[3][4].
+Deadlock Prevention:Avoids deadlocks by careful resource allocation (e.g., Banker's Algorithm).
+Deadlock Detection:Identifies deadlocks using safe state checks and resource allocation graphs.
+Deadlock Recovery:Resolves deadlocks by terminating processes, preempting resources, or rolling back processes.
